@@ -1,0 +1,12 @@
+c:\users\andré\documents\visual studio 2015\Projects\GFHUD\GFHUD\bin\Debug\GFHUD.exe.config
+c:\users\andré\documents\visual studio 2015\Projects\GFHUD\GFHUD\bin\Debug\GFHUD.exe
+c:\users\andré\documents\visual studio 2015\Projects\GFHUD\GFHUD\bin\Debug\GFHUD.pdb
+c:\users\andré\documents\visual studio 2015\Projects\GFHUD\GFHUD\bin\Debug\MetroFramework.Design.dll
+c:\users\andré\documents\visual studio 2015\Projects\GFHUD\GFHUD\bin\Debug\MetroFramework.dll
+c:\users\andré\documents\visual studio 2015\Projects\GFHUD\GFHUD\bin\Debug\MetroFramework.Fonts.dll
+c:\users\andré\documents\visual studio 2015\Projects\GFHUD\GFHUD\obj\Debug\GFHUD.csprojResolveAssemblyReference.cache
+c:\users\andré\documents\visual studio 2015\Projects\GFHUD\GFHUD\obj\Debug\GFHUD.Properties.Resources.resources
+c:\users\andré\documents\visual studio 2015\Projects\GFHUD\GFHUD\obj\Debug\GFHUD.csproj.GenerateResource.Cache
+c:\users\andré\documents\visual studio 2015\Projects\GFHUD\GFHUD\obj\Debug\GFHUD.exe
+c:\users\andré\documents\visual studio 2015\Projects\GFHUD\GFHUD\obj\Debug\GFHUD.pdb
+C:\Users\André\documents\visual studio 2015\Projects\GFHUD\GFHUD\obj\Debug\GFHUD.Form1.resources
